@@ -14,8 +14,8 @@
    height="744.09448"
    id="svg3150"
    version="1.1"
-   inkscape:version="0.48.0 r9654"
-   sodipodi:docname="volantino ninux bianca.svg">
+   inkscape:version="0.48.1 r9760"
+   sodipodi:docname="volantino ninux bianca.pdf">
   <defs
      id="defs3152" />
   <sodipodi:namedview
@@ -25,17 +25,17 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.49497475"
-     inkscape:cx="240.77768"
-     inkscape:cy="398.41798"
+     inkscape:zoom="1.4"
+     inkscape:cx="368.8711"
+     inkscape:cy="553.62676"
      inkscape:document-units="px"
-     inkscape:current-layer="layer1"
+     inkscape:current-layer="g4826"
      showgrid="false"
      inkscape:showpageshadow="false"
      showguides="false"
      inkscape:guide-bbox="true"
      inkscape:window-width="1280"
-     inkscape:window-height="723"
+     inkscape:window-height="721"
      inkscape:window-x="0"
      inkscape:window-y="24"
      inkscape:window-maximized="1">
@@ -76,7 +76,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title />
+        <dc:title></dc:title>
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -293,7 +293,7 @@
              width="419.86847"
              id="rect4435-1" /></flowRegion><flowPara
            style="font-size:11.5px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:justify;text-anchor:start;fill:#303030;fill-opacity:1;font-family:Ubuntu;-inkscape-font-specification:Ubuntu"
-           id="flowPara4809">Noi colleghiamo case e palazzi tra di loro attraverso collegamenti wireless ad alta velocità. Il gioco è semplice: i cittadini comprano i propri apparati e noi li aiutiamo a configurarli e montarli. Niente canoni, affitti o tasse da pagare, perché la rete è di tutti ed ognuno è responsabile del proprio &quot;nodo&quot;.</flowPara><flowPara
+           id="flowPara4809">Colleghiamo case e palazzi tra di loro attraverso collegamenti wireless ad alta velocità. Il gioco è semplice: i cittadini comprano i propri apparati e noi li aiutiamo a configurarli e montarli. Niente canoni, affitti o tasse da pagare, perché la rete è di tutti ed ognuno è responsabile del proprio &quot;nodo&quot;.</flowPara><flowPara
            style="font-size:11.5px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:justify;text-anchor:start;fill:#303030;fill-opacity:1;font-family:Ubuntu;-inkscape-font-specification:Ubuntu"
            id="flowPara4833" /><flowPara
            style="font-size:11.5px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:justify;text-anchor:start;fill:#303030;fill-opacity:1;font-family:Ubuntu;-inkscape-font-specification:Ubuntu"
@@ -348,17 +348,18 @@
            style="font-size:13px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:justify;line-height:125%;text-anchor:start;fill:#303030;fill-opacity:1;font-family:Ubuntu;-inkscape-font-specification:Ubuntu"
            id="flowPara3157">  http://wiki.ninux.org/MailingLists</flowPara><flowPara
            style="font-size:13px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:justify;line-height:200%;text-anchor:start;fill:#303030;fill-opacity:1;font-family:Ubuntu;-inkscape-font-specification:Ubuntu"
-           id="flowPara3161">- Passaci a trovare di persona un Giovedì sera al Fusolab,</flowPara><flowPara
+           id="flowPara3161">- Vieni a conoscerci di persona un Giovedì sera al Fusolab 2.0,</flowPara><flowPara
            style="font-size:13px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:justify;line-height:125%;text-anchor:start;fill:#303030;fill-opacity:1;font-family:Ubuntu;-inkscape-font-specification:Ubuntu"
-           id="flowPara3163">   in Via Giorgio Pitacco, 29 (dalle 21:30 in poi)</flowPara></flowRoot>      <g
+           id="flowPara3163">   in Via della Bella VIlla 94 a Roma (dalle 21:30 in poi)</flowPara></flowRoot>      <g
          id="g3869">
         <image
-           y="673.08057"
-           x="578.83069"
-           id="image3881"
-           xlink:href="file:///home/alessandro/Documenti/%5B%20In%20lavorazione%20%5D/NINUX/Volantino%20Ninux/Ninux%20map%20(street).png"
+           sodipodi:absref="/home/nemesis/Desktop/www/public/Volantino Ninux/ninux-map.png"
+           xlink:href="ninux-map.png"
+           width="419.88199"
            height="264.54227"
-           width="419.88199" />
+           id="image3881"
+           x="578.83069"
+           y="673.08057" />
         <rect
            y="673.08069"
            x="578.83069"
